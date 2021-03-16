@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cameronrex
 - 👀 I’m interested in learning more about Interface Design and Data Science/ Analysis
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science using DataQuest and Interactive Design at RISD.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
