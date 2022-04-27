@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about Data Science/ Analysis and R.
 - 🌱 I’m currently learning Data Science/Analysis using R.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me email: rex.cameron67@gmail.com
 
 <!---
 cameronrex/cameronrex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
